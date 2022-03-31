@@ -3,7 +3,7 @@
 </h1>
 <p align="center">🚨🚧👷Projeto em construção.👷🚧🚨 </p>
 <p align="center">Esse projeto tem como objetivo replicar o Netflix, ele contém um script para gerar algumas informações e salvar no banco de dados de forma automática. Curso oferecido pelo canal Irmão mais velho do Silvio Sampaio.</p>
-<p align="center">🚨🚨🚨Sistema desenvolvido para fim educacional🚨🚨🚨</p>
+<p align="center">🚨🚨🚨Sistema desenvolvido para fins educacionais🚨🚨🚨</p>
 
 
 <p align="center">
